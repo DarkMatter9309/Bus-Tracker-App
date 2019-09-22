@@ -1,0 +1,285 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJaQ78z12DyzsRWsaDAKx-Gcc",
+         "types" : [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJnbyzXyGayzsR-i7UVc2wKYM",
+         "types" : [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 17.5737385,
+               "lng" : 78.5741196
+            },
+            "southwest" : {
+               "lat" : 17.4346846,
+               "lng" : 78.4963456
+            }
+         },
+         "copyrights" : "Map data ©2019 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "22.7 km",
+                  "value" : 22728
+               },
+               "duration" : {
+                  "text" : "45 mins",
+                  "value" : 2681
+               },
+               "end_address" : "Secunderabad Railway Station, Regimental Bazaar, Shivaji Nagar, Secunderabad, Telangana 500003, India",
+               "end_location" : {
+                  "lat" : 17.4346846,
+                  "lng" : 78.5019844
+               },
+               "start_address" : "BITS Pilani Bus Stop, BITS Pilani Hyderabad Campus, Jawahar Nagar, Shameerpet Mandal, Hyderabad, Telangana 500078, India",
+               "start_location" : {
+                  "lat" : 17.5474714,
+                  "lng" : 78.5724774
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 917
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 103
+                     },
+                     "end_location" : {
+                        "lat" : 17.5541603,
+                        "lng" : 78.56752449999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ufbjB_eq~M_@No@b@uAbAeBhAaAj@o@X_C`A}BlAkAv@eA~@_AhAm@|@cAfAOL[P_B~@kBbAaCzA"
+                     },
+                     "start_location" : {
+                        "lat" : 17.5474714,
+                        "lng" : 78.5724774
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1073
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 96
+                     },
+                     "end_location" : {
+                        "lat" : 17.5611232,
+                        "lng" : 78.5741196
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "opcjB_fp~MGKoC{EyC_Gq@qAo@kAg@y@a@o@s@y@YWy@g@s@c@GCkAi@qB}@eCeAwEkBkAq@eBiA"
+                     },
+                     "start_location" : {
+                        "lat" : 17.5541603,
+                        "lng" : 78.56752449999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.7 km",
+                        "value" : 1692
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 150
+                     },
+                     "end_location" : {
+                        "lat" : 17.5737303,
+                        "lng" : 78.56609639999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eShamirpet - Keesara Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_|djBgoq~Mk@l@wDnEQTkGdIY\\{@`ACBs@n@cCdByCpBwAdA_C|A{AbA_C|ASJQHSFWFyAROBmF~@}@N_Dj@wB`@UDaBXMB{@LyB^QBi@D"
+                     },
+                     "start_location" : {
+                        "lat" : 17.5611232,
+                        "lng" : 78.5741196
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "10.2 km",
+                        "value" : 10192
+                     },
+                     "duration" : {
+                        "text" : "14 mins",
+                        "value" : 850
+                     },
+                     "end_location" : {
+                        "lat" : 17.5066446,
+                        "lng" : 78.5159177
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eHyderabad - Ramagundam Rd\u003c/b\u003e/\u003cb\u003eKarimnagar - Hyderabad Hwy\u003c/b\u003e/\u003cb\u003eRajiv Gandhi Rahadari\u003c/b\u003e/\u003cb\u003eShamirpet Rd\u003c/b\u003e/\u003cb\u003eUtkoor - Mogdumpur Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Viceroy Family Dhaba (on the left in 1.1&nbsp;km)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "yjgjBc}o~M?tHAjABb@Ah@BnADl@Hj@Nv@\\vAPh@Nb@Rb@dApBv@pAn@nADH\\d@n@x@DDLTlC|DpDjFdAxALNrA`B@@XZp@p@lBdB\\XRRPN\\Z^\\B@\\ZbA~@BJ\\X@@rAlA^^zAtApAnA@@p@x@|AzA@Bv@t@TVn@v@LBb@j@rC|DHLvBhD|@`BJPlCbGLXXl@Xj@\\r@BFBBP\\v@xAh@~@hAhBvB`Dd@r@tAxB`@j@j@z@`@p@?@@J?VDHd@fAJRl@tA|@nBlBjDp@nAbA~AlAnBd@p@^l@hDlFPVJHNNJFNFHDJBXHRDn@HbALlD^rBPpANj@DzAL`AJN@pE^tAL`@D@?`BPtATj@JJBHB`@J`@Nl@XNDnEhBnBv@bA`@bBr@~@b@f@V^RZRPPTTPPRXRZFLHTFPHXHZJp@F^LjAJjAFt@NvAJz@DZBRDTDPFTBHJXL\\NZR\\`@n@zAdCrBnD`DhFRZRXFHZ\\Z\\VXZVVRVRZPPHb@RHBPFZJPDLDRDxBNz@DtH`@pCLL?tBLlBHn@BVAF?VCJ?F?JAFADAdAWfAUjAYh@OVENCFAJAD?N?N@J?NBH@ZJzAh@VHTF^NvCdAhBl@vAf@v@ZzBx@JDHB?A?A@??A@?@?@?@?@??@@??@@??@?@jFHxCBz@@\\@hB@P?jBBdA@dB@F@F@FBB@DBBBBDBFBNn@dGBVBVfFc@b@InGm@pFe@f@EzAKj@EXApAI~@E~ACX?RBHBJ@RF`F`BrAf@bA\\h@RV?rAn@j@Z|@f@tAv@B@`FvClDpBjAr@pBtAdAr@FDBB~C~Bl@`@bAp@JRD@XR^VVLJF"
+                     },
+                     "start_location" : {
+                        "lat" : 17.5737303,
+                        "lng" : 78.56609639999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "7.4 km",
+                        "value" : 7366
+                     },
+                     "duration" : {
+                        "text" : "19 mins",
+                        "value" : 1121
+                     },
+                     "end_location" : {
+                        "lat" : 17.4462537,
+                        "lng" : 78.4963456
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to continue on \u003cb\u003eHyderabad - Ramagundam Rd\u003c/b\u003e/\u003cb\u003eKarimnagar - Hyderabad Hwy\u003c/b\u003e/\u003cb\u003eRajiv Gandhi Rahadari\u003c/b\u003e/\u003cb\u003eRajiv Rahadari\u003c/b\u003e/\u003cb\u003eShamirpet Rd\u003c/b\u003e/\u003cb\u003eSiddipet Rd\u003c/b\u003e/\u003cb\u003eUtkoor - Mogdumpur Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Hyderabad - Ramagundam Rd/Karimnagar - Hyderabad Hwy/Rajiv Gandhi Rahadari/Rajiv Rahadari/Utkoor - Mogdumpur Rd\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Rythu Bazaar (on the right)\u003c/div\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "ogziBocf~MXLJB^LF@LBD?RBN@d@BP?V?nAAJ?L@J?F@L@L@TDB@F@PDRFZLVLJF\\T`@X`@Xf@b@XRb@Xd@Xd@XRHj@L`@HD@LBNDTB`@D@?|D`@TBtBPxALPBbAHrBPN@nCV`AJdBNLBb@Bj@Dv@HRBxD^~APRBhAJb@H`@Hh@F|@HjAHT@H?H?H?JAHAHAHC`@IhAURCHAFARAFAF?RAV?bAAd@?X@N?TBP@r@Jj@Hv@L`El@`AL|@L~@Nn@J~@LtBX~@LfBRv@Hn@FF@xBRlBV`CVfBNr@HN@R@N?R@R@ZAnAA`BCl@?f@?lA@zAB`@@\\?f@Dz@HD@N?n@Dl@B|@FP@@?H@VBl@Jt@Lz@PnATdB`@RDJB^L^P^LNFPDJ@LBR@ZBP?H?J?HAJAREpA[j@On@GJ?H?D?H@L@B@J@LDr@P|A^\\F`Df@tBVb@J\\HVHVHp@XRNTNPNNJHHh@h@h@j@l@n@Z\\pAjA\\^VVlCdCJJBDf@f@@B`A|@fAhAHFn@l@b@^p@l@^^l@n@`@p@jAfBf@r@HJXb@Zd@p@|@~AbBx@~@j@j@r@p@n@f@^VdAr@ZVNJJHJHNNLHLJFDFBJFJDD@F@F?L@L?`@A^A`AKRA\\AHAB?L?Z@b@@L@t@LD@l@LjA^RHJDJDPFPD@?JDH@RDVB\\DL@HBH@TFn@R^NZNb@VHFfAx@^V`@VZPRJVJ|@Zd@Ln@L\\FnALFBD?JDHDXLJFHDFDJHJPDLFRBHHVLl@FVBLBFFN@FBBBD@@@@BDBBBDDBBBDBB@D@D@FBL@NBXBxCNdERP?n@Er@ITARARAP?N?`@BfADd@?`@?f@C^@J@XB|@Hl@@L?`@@dDJzDJ"
+                     },
+                     "start_location" : {
+                        "lat" : 17.5066446,
+                        "lng" : 78.5159177
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 435
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 104
+                     },
+                     "end_location" : {
+                        "lat" : 17.4430573,
+                        "lng" : 78.49855950000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eSt Marys Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "anniBeib~MrB_@hFgF~@u@HIhAs@d@YHEFCf@QHC`@C"
+                     },
+                     "start_location" : {
+                        "lat" : 17.4462537,
+                        "lng" : 78.4963456
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 164
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 48
+                     },
+                     "end_location" : {
+                        "lat" : 17.4416142,
+                        "lng" : 78.49886069999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eSt Marys Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by YMCA BASKETBALL Ct (on the left)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "czmiB_wb~MH?HANAd@Cr@IfAKJC^IVGVG"
+                     },
+                     "start_location" : {
+                        "lat" : 17.4430573,
+                        "lng" : 78.49855950000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "54 m",
+                        "value" : 54
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 17.4411323,
+                        "lng" : 78.49888419999999
+                     },
+                     "html_instructions" : "At \u003cb\u003eClock Tower\u003c/b\u003e, continue onto \u003cb\u003eSD Road\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "aqmiB{xb~Mj@?RA^A"
+                     },
+                     "start_location" : {
+                        "lat" : 17.4416142,
+                        "lng" : 78.49886069999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 835
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 198
+                     },
+                     "end_location" : {
+                        "lat" : 17.4346846,
+                        "lng" : 78.5019844
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to continue on \u003cb\u003eRegimental Bazar Main Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Hotel Saptagiri (on the left in 350&nbsp;m)\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "anmiB_yb~M?A`@GvB?P?T?PALCJAPERElCq@RGj@Qt@UzCaAZInA]r@Q`EeAlAe@DCVINI`@_@FEHIBC@ALOFKDMBODQBQBSJy@BI"
+                     },
+                     "start_location" : {
+                        "lat" : 17.4411323,
+                        "lng" : 78.49888419999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ufbjB_eq~M_@No@b@{DlCqBdA_C`A}BlAkAv@eA~@mBfCsAtA{BpAmF~CwCgFkEqIwAeCuAiBsA_A{@g@}DgBeCeAwEkBkAq@eBiAk@l@iEdFeHbJ_AdAs@n@cCdBqFvDoJjGe@PqBZ{M~B}FdAuDl@{@HA`K@lABnADl@XbBn@`Cb@fArD|G`BzBrKrOtAbBjAlApDbD~AvAbA~@BJ^Z`HrGr@z@~A~AlAlAn@v@LBvDhF`CvDhArBzC|GtAtCvBzDlLtQ@b@j@pAx@hB|@nBlBjDtBnDrB`DhEzG\\`@ZVXLd@LbANpFl@dE`@xE`@jIr@`BPtATv@Nj@NnAh@rKhEbDvAfAj@l@d@f@f@f@t@Pb@Pj@TlAh@lFd@bEVfAXv@b@x@rKnQjA|Ar@v@r@j@r@d@t@\\hA\\`@JtDTjQ|@|CL^Av@EzCq@|Cs@h@Ct@FdDfAxJjDhE~A?A@ABAD?BB?@jFJfSPZHLLFVr@|GBVfFc@rHw@`L}@jBK~CIl@BTDtFhBvCdAh@RV?~BjAxJxFxFdDvDhCxEjDbAp@JR^Tv@d@d@T`AVnAHdCAn@Dn@Jd@Lr@ZlBpA`Av@hAr@x@b@lAVb@JvFj@vFf@pPxApHr@rBTlBTjAPhCRr@@h@IhCe@j@EtCCpAFxIpAnFv@|IhAhFf@nFn@zCXfAD`FE~FD~@@bBNrBJzAJdANpB^tE`AnBt@~@LbABTCdBa@j@On@GT?`@DjDx@xIrAt@RhAb@jAz@jCnCbD`DxCpCj@l@tCrCdDzCl@n@`@p@rBzCpBrCxCbD~A|ApDjCv@n@j@^d@PT@n@ArCQv@?p@Bz@Nl@LjA^^Np@R`AP~@LdAZz@^l@^fBpA|@h@j@VbBh@lATvAPPDx@`@RNP^b@bBV|@JRLPRL`@HbEVvERbBOnAE~CHhACj@BvALz@@fELzDJrB_@hFgF~@u@rA}@n@_@n@Ut@G~@GzBUj@Mn@O~@A^C`@GvB?f@?^E~D_ApGqB`J_CzB}@v@s@NQLYPgANcA"
+         },
+         "summary" : "Hyderabad - Ramagundam Rd/Rajiv Gandhi Rahadari/Shamirpet Rd/Utkoor - Mogdumpur Rd and Hyderabad - Ramagundam Rd/Karimnagar - Hyderabad Hwy/Rajiv Gandhi Rahadari/Rajiv Rahadari/Utkoor - Mogdumpur Rd",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
